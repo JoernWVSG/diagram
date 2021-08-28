@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T18:32:08.846Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="BbEZX8kjUmy8JY64bp5h" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T11:48:07.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="4AO-X59g_geX9wy5TKJ9" version="14.9.7" type="github">
   <diagram id="r6M8skHL5s6FFcUsjDsS" name="Page-1">
-    <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,10 @@
         <mxCell id="Nrn3qzLmEPuo9doUSMoq-2" value="lege nächste Schachtel auf Waage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nrn3qzLmEPuo9doUSMoq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-3" target="Nrn3qzLmEPuo9doUSMoq-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-7" value="Ja&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-3" target="Nrn3qzLmEPuo9doUSMoq-6">
+          <mxGeometry x="-0.0667" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nrn3qzLmEPuo9doUSMoq-3" value="noch &lt;br&gt;eine Schachtel &lt;br&gt;vorhanden?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="160" height="70" as="geometry" />
@@ -44,14 +46,17 @@
         <mxCell id="Nrn3qzLmEPuo9doUSMoq-8" value="zuletzt zugefügte&lt;br&gt;Schachtel&lt;br&gt;schwerer?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nrn3qzLmEPuo9doUSMoq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-10" target="Nrn3qzLmEPuo9doUSMoq-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="459.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nrn3qzLmEPuo9doUSMoq-10" value="lege zuvor zugefügte Schachtel weg" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="140" y="435" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nrn3qzLmEPuo9doUSMoq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-11" target="Nrn3qzLmEPuo9doUSMoq-19">
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="570" y="539" />
               <mxPoint x="82" y="539" />
@@ -61,11 +66,33 @@
         <mxCell id="Nrn3qzLmEPuo9doUSMoq-11" value="lege zuletzt zugefügte Schachtel weg" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="520" y="435" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nrn3qzLmEPuo9doUSMoq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-19" target="Nrn3qzLmEPuo9doUSMoq-2">
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" target="Nrn3qzLmEPuo9doUSMoq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="82" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-28" target="Nrn3qzLmEPuo9doUSMoq-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nrn3qzLmEPuo9doUSMoq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="450" width="3" height="19" as="geometry" />
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-28" value="die Schachtel auf der Waage ist die mit der größten Goldmenge" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="575" width="100" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-32" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Nrn3qzLmEPuo9doUSMoq-3" target="Nrn3qzLmEPuo9doUSMoq-28">
+          <mxGeometry x="0.0067" y="17" relative="1" as="geometry">
+            <mxPoint x="470" y="470" as="sourcePoint" />
+            <mxPoint x="530" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="652" y="275" />
+              <mxPoint x="652" y="606" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nrn3qzLmEPuo9doUSMoq-33" value="Ende" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="666" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
