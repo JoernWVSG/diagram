@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T10:08:22.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="Ag9NRKAJs4J6-gEat_KG" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T10:29:58.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="ZAnn916VqFP4caK_COrQ" version="14.9.7" type="github">
   <diagram id="_OSGkWf5ZfzrCvisF-_i" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,6 +40,32 @@
         </mxCell>
         <mxCell id="4UwMtO0n7FMN03VbfYKP-18" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;verticalAlign=top;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="325.5" y="314" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4UwMtO0n7FMN03VbfYKP-22" value="" style="curved=1;endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="228" as="sourcePoint" />
+            <mxPoint x="414" y="228" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="273" y="178" />
+              <mxPoint x="390" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UwMtO0n7FMN03VbfYKP-23" value="Stromrichtung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="291" y="190" width="85" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4UwMtO0n7FMN03VbfYKP-24" value="" style="curved=1;endArrow=none;html=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="271" as="sourcePoint" />
+            <mxPoint x="414" y="271" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="272" y="307" />
+              <mxPoint x="392" y="307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UwMtO0n7FMN03VbfYKP-25" value="Bewegung der&lt;br&gt;Elektronen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="268.5" width="87" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
