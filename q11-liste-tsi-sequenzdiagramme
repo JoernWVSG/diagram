@@ -1,0 +1,19 @@
+title Element am Ende einfügen
+
+actor user
+participant liste
+user->+liste: hintenEinfuegen(p4)
+liste->+k1: hintenEinfuegen(p4)
+k1->+k2: hintenEinfuegen(p4)
+k2->+k3: hintenEinfuegen(p4)
+note right of k3:
+  k3 erzeugt neuen Knoten
+  mit new Knoten(daten, null)
+  und setzt seine naechster
+  Referenz auf diesen Knoten
+end note
+k3-->-k2:
+k2-->-k1:
+k1-->-liste:
+liste-->-user:
+
