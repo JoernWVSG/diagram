@@ -17,3 +17,19 @@ k2-->-k1:
 k1-->-liste:
 liste-->-user:
 
+title Element vom Ende entfernen
+
+actor user
+participant liste
+user->+liste: hintenEntfernen()
+liste->+k1: hintenEntfernen()
+k1->+k2: hintenEntfernen()
+k2->+k3: hintenEntfernen()
+note right of k3:
+  k3 ist letzter Knoten
+  und gibt null zurück
+end note
+k3-->-k2: null
+k2-->-k1: k2
+k1-->-liste: k1
+liste-->-user:
