@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T17:13:16.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="3RbR45ex_kz0K-vvwo6S" version="15.5.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-06T17:24:12.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="fXNL-e99Lc4WeZrAj6v8" version="15.5.9" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Composite Pattern">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,6 +223,41 @@
       <root>
         <mxCell id="ROBD5aYujCak9sWCajdu-0" />
         <mxCell id="ROBD5aYujCak9sWCajdu-1" parent="ROBD5aYujCak9sWCajdu-0" />
+        <mxCell id="I62fqwJgVNmi3kcamPsk-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Listenelement&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ naechsterGeben(): Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ naechsterSetzen(Listenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hintenEinfuegen(Datenelement): Listenelement&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ROBD5aYujCak9sWCajdu-1">
+          <mxGeometry x="274" y="126" width="271" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="ROBD5aYujCak9sWCajdu-1" source="I62fqwJgVNmi3kcamPsk-6" target="I62fqwJgVNmi3kcamPsk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Abschluss&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterGeben(): Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterSetzen(Listenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ hintenEinfuegen(Datenelement): Listenelement&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ROBD5aYujCak9sWCajdu-1">
+          <mxGeometry x="99" y="332" width="282" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="ROBD5aYujCak9sWCajdu-1" source="I62fqwJgVNmi3kcamPsk-7" target="I62fqwJgVNmi3kcamPsk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="212" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="406" />
+              <mxPoint x="760" y="194" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-9" value="&amp;lt; hat als Nachfolger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I62fqwJgVNmi3kcamPsk-8">
+          <mxGeometry x="0.4694" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="ROBD5aYujCak9sWCajdu-1" source="I62fqwJgVNmi3kcamPsk-7" target="I62fqwJgVNmi3kcamPsk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Knoten&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ naechster: Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ daten: Datenelement&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterGeben(): Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterSetzen(Listenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ hintenEinfuegen(Datenelement): Listenelement&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ROBD5aYujCak9sWCajdu-1">
+          <mxGeometry x="443" y="332" width="282" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-12" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROBD5aYujCak9sWCajdu-1">
+          <mxGeometry x="545" y="172" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="I62fqwJgVNmi3kcamPsk-13" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROBD5aYujCak9sWCajdu-1">
+          <mxGeometry x="728" y="409" width="21" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
