@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T09:48:35.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="ri1APKNo9XVelLkmtz-g" version="15.5.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-14T18:10:41.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="7Rkn8kIcrNYBDqYhVWS6" version="15.5.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Composite Pattern">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6b4Oa_PR-1vGkbU1heYs" name="class diagram">
-    <mxGraphModel dx="988" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="ROBD5aYujCak9sWCajdu-0" />
         <mxCell id="ROBD5aYujCak9sWCajdu-1" parent="ROBD5aYujCak9sWCajdu-0" />
@@ -374,6 +374,17 @@
         </mxCell>
         <mxCell id="X6eKq9oofqkCXD1nfGXm-4" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ROBD5aYujCak9sWCajdu-1" vertex="1">
           <mxGeometry x="294" y="206" width="21" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-P-roImsfUQCVH9jqhw9" name="Page-4">
+    <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="uZByvqqWCn8RVQAfRkpJ-0" />
+        <mxCell id="uZByvqqWCn8RVQAfRkpJ-1" parent="uZByvqqWCn8RVQAfRkpJ-0" />
+        <mxCell id="uZByvqqWCn8RVQAfRkpJ-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Einkauf&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- bonnummer: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- umsatz: double&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- artikelzahl: int&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ Einkauf(double, int)&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ umsatzGeben(): double&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ artikelzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ umsatzSetzen(double): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ artikelzahlSetzen(int): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ mittlererUmsatzGeben(): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="uZByvqqWCn8RVQAfRkpJ-1">
+          <mxGeometry x="74" y="163" width="220" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
