@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T20:21:14.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="MAj6JuqKk8x1UEJ7MmHa" version="15.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-24T07:07:03.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="5wVUiz1RnVo1iwi49Jlo" version="15.7.4" type="github" pages="2">
   <diagram id="LIN53QzxnajPTWx4z5eL" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
         </mxCell>
         <mxCell id="9p_0MS8qea1fHLjbMJPj-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="9p_0MS8qea1fHLjbMJPj-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196" y="258" as="sourcePoint" />
+            <mxPoint x="119" y="258" as="sourcePoint" />
             <mxPoint x="749" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -158,6 +158,18 @@
             <mxPoint x="240" y="259" as="sourcePoint" />
             <mxPoint x="299" y="319" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_0MS8qea1fHLjbMJPj-44" value="Abstellplatz für&lt;br&gt;einen Waggon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="9p_0MS8qea1fHLjbMJPj-1">
+          <mxGeometry x="85" y="222" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_0MS8qea1fHLjbMJPj-45" value="Gleis 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="9p_0MS8qea1fHLjbMJPj-1">
+          <mxGeometry x="752" y="193" width="44" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_0MS8qea1fHLjbMJPj-46" value="Gleis 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="9p_0MS8qea1fHLjbMJPj-1">
+          <mxGeometry x="752" y="248" width="44" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_0MS8qea1fHLjbMJPj-47" value="Gleis 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="9p_0MS8qea1fHLjbMJPj-1">
+          <mxGeometry x="752" y="310" width="44" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
