@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T18:02:59.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="_lH0wCfKvf90JI3SyBY3" version="15.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-12T20:25:19.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="WtXbt_n-ndeBg66RucVK" version="15.9.4" type="github" pages="3">
   <diagram id="A3hhvqO9dA2RtZS7eoTK" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JuYXb7I_1UV84GD5YxeN" name="Page-3">
+  <diagram id="JuYXb7I_1UV84GD5YxeN" name="Klassendiagramme">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PySQQeqjKEQNnzRnkN3r-0" />
@@ -487,6 +487,46 @@
         </mxCell>
         <mxCell id="cBjdJicqprbUQp7XBYdH-23" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
           <mxGeometry x="439" y="276" width="17" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-36" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Binaerbaum&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- wurzel: Baumelement&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ einfuegen(Datenelement): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
+          <mxGeometry x="75" y="453" width="192" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="PySQQeqjKEQNnzRnkN3r-1" source="cBjdJicqprbUQp7XBYdH-36" target="cBjdJicqprbUQp7XBYdH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="PySQQeqjKEQNnzRnkN3r-1" source="cBjdJicqprbUQp7XBYdH-38" target="cBjdJicqprbUQp7XBYdH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-38" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Abschluss&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ einfuegen(Datenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ druckeBaum(String, boolean): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
+          <mxGeometry x="326" y="645" width="212" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="PySQQeqjKEQNnzRnkN3r-1" source="cBjdJicqprbUQp7XBYdH-38" target="cBjdJicqprbUQp7XBYdH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="PySQQeqjKEQNnzRnkN3r-1" source="cBjdJicqprbUQp7XBYdH-40" target="cBjdJicqprbUQp7XBYdH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PySQQeqjKEQNnzRnkN3r-1" source="cBjdJicqprbUQp7XBYdH-40" target="cBjdJicqprbUQp7XBYdH-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="835" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-46" value="&amp;lt; hat als Nachfolger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cBjdJicqprbUQp7XBYdH-45">
+          <mxGeometry x="0.3454" relative="1" as="geometry">
+            <mxPoint x="3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-40" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Knoten&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- links: Baumelement&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- rechts: Baumelement&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- daten: Datenelement&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ einfuegen(Datenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ druckeBaum(String, boolean): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
+          <mxGeometry x="554" y="645" width="210" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-42" value="«abstract»&lt;br&gt;&lt;b&gt;Baumelement&lt;/b&gt;" style="html=1;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
+          <mxGeometry x="492" y="531" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-47" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
+          <mxGeometry x="529" y="515" width="17" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cBjdJicqprbUQp7XBYdH-48" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PySQQeqjKEQNnzRnkN3r-1">
+          <mxGeometry x="764" y="708" width="17" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
