@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T19:20:00.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="kdDbRW8N2_eC_QM6FCIb" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T08:07:27.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="65GmK_M_8ScS1thr1-wB" version="20.5.3" type="github">
   <diagram id="XNInbXK33meSWgX7OLv_" name="Seite-1">
     <mxGraphModel dx="788" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,8 @@
               <mxPoint x="107" y="147" />
               <mxPoint x="107" y="92" />
               <mxPoint x="271" y="92" />
+              <mxPoint x="271" y="138" />
+              <mxPoint x="270" y="138" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,6 +85,36 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="84" y="147" as="sourcePoint" />
             <mxPoint x="225" y="157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYEEOcifHWdifdd_a8T--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYEEOcifHWdifdd_a8T--18" target="rYEEOcifHWdifdd_a8T--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYEEOcifHWdifdd_a8T--18" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="131" y="261" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rYEEOcifHWdifdd_a8T--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rYEEOcifHWdifdd_a8T--18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83.99999999999989" y="280" as="sourcePoint" />
+            <mxPoint x="225" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYEEOcifHWdifdd_a8T--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYEEOcifHWdifdd_a8T--20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYEEOcifHWdifdd_a8T--20" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="227" y="261" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rYEEOcifHWdifdd_a8T--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="280" as="sourcePoint" />
+            <mxPoint x="201" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286" y="326" />
+              <mxPoint x="201" y="326" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
