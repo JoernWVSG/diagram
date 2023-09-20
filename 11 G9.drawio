@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T19:07:16.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.9" etag="QRM9CGl9N6yyr9sU4DKD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T19:43:32.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="syyGcZXdVBH36TVvLs3i" version="21.6.9" type="github">
   <diagram name="Seite-1" id="n50YsQVgjFoi5HFnZvC2">
-    <mxGraphModel>
+    <mxGraphModel dx="467" dy="316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zDR5rnlX6OSqblCzweE_-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Zahlenliste&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- liste: int[]&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &lt;u&gt;Zahlenliste&lt;/u&gt;()&lt;/p&gt;&amp;nbsp;+ berechneSumme(): int&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ bestimmeMaximum(): int &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ druckeListe(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="284" width="159" height="121" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
