@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T09:38:02.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.0.1" etag="4yb4dpqI-FQSt43HnRRy" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T09:53:01.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="td2zXaY-vnD5oDJktsMu" version="24.0.1" type="github">
   <diagram name="Seite-1" id="t_KZIEOrnzz-CpnTngT-">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-1" value="&lt;div&gt;URI&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;z. B. www.google.com&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="41" y="144" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=19;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="185" y="167" width="40" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-4" value="&lt;div&gt;HttpRequest.Builder&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="144" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-5" value="&lt;div&gt;URI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="255" y="178" width="59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-7" value="&lt;div&gt;HttpClient&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="436" y="146.75" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-8" value="Builder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="451" y="180.75" width="59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=19;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="383" y="167" width="40" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-13" value="&lt;div&gt;HttpResponse&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="630" y="149" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TIkcyEuOA17kOItG8Ugt-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=19;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="577" y="169.25" width="40" height="25.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
