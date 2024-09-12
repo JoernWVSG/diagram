@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-12T10:43:51.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="p0ruOSAXXAkLzWPDTW7u" version="24.5.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-09-12T10:52:55.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="63jLe61yYr8CkxW3pb71" version="24.5.5" type="github" pages="6">
   <diagram id="v67bSw7ZatRE_86MAtf1" name="4.2">
     <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -420,6 +420,26 @@
               <mxPoint x="201" y="398" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2QHMev7KKxlPL5BYjIpd" name="Seite-6">
+    <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W2c3wNciaN8hx__gwgju-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;u&gt;a1: Buch&lt;/u&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;bezeichnung = &quot;Faust I&quot;&lt;br&gt;preis = 9.90&lt;br&gt;isbn = &quot;978-123-45-09&quot;&lt;br&gt;seitenzahl = 201" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="103" y="54" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="W2c3wNciaN8hx__gwgju-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;u&gt;a2: Schuh&lt;/u&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;artikelbezeichnung = &quot;T26&quot;&lt;br&gt;preis = 119.00&lt;br&gt;&lt;div&gt;groesse = &quot;45&quot;&lt;/div&gt;&lt;div&gt;farbe = &quot;pink&quot;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="266" y="54" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="W2c3wNciaN8hx__gwgju-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;u&gt;a4: Schmuck&lt;/u&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;bezeichnung = &quot;GoldR&quot;&lt;br&gt;preis = 459.00" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="592" y="54" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="W2c3wNciaN8hx__gwgju-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;u&gt;a3: Schuh&lt;/u&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;artikelbezeichnung = &quot;T29&quot;&lt;br&gt;preis = 99.00&lt;br&gt;&lt;div&gt;groesse = &quot;42&quot;&lt;/div&gt;&lt;div&gt;farbe = &quot;schwarz&quot;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="429" y="54" width="150" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
