@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-12T10:52:55.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="63jLe61yYr8CkxW3pb71" version="24.5.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.13" pages="6">
   <diagram id="v67bSw7ZatRE_86MAtf1" name="4.2">
     <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -383,25 +383,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T9iaVQACYLz0ye3ufo7y" name="Seite-5">
-    <mxGraphModel dx="795" dy="392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_DPPXdtUuTYM8CFtlVw9-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Artikel&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- bezeichnung: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- preis: double&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Artikel&lt;/u&gt;()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeBezeichnung(bezeichnung: String): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibBezeichnung(): String&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzePreis(preis: double): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibPreis(): double&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="_DPPXdtUuTYM8CFtlVw9-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Artikel&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- bezeichnung: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- preis: double&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Artikel&lt;/u&gt;()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeBezeichnung(bezeichnung: String): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibBezeichnung(): String&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzePreis(preis: double): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibPreis(): double&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="306" y="221" width="262" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="SVLQ4ODy7TKubQk8MnC7-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Buch&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- isbn: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- seitenzahl: int&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Buch&lt;/u&gt;()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeIsbn(isbn: String): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibIsbn(): String&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeSeitenzahl(seitenzahl: int): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibSeitenzahl(): int&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="SVLQ4ODy7TKubQk8MnC7-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Buch&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- isbn: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- seitenzahl: int&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Buch&lt;/u&gt;()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeIsbn(isbn: String): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibIsbn(): String&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeSeitenzahl(seitenzahl: int): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibSeitenzahl(): int&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="91" y="418" width="220" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="z5zjT02Y-yt-OSw4Jawk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="z5zjT02Y-yt-OSw4Jawk-1" target="_DPPXdtUuTYM8CFtlVw9-1">
+        <mxCell id="z5zjT02Y-yt-OSw4Jawk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" source="z5zjT02Y-yt-OSw4Jawk-1" target="_DPPXdtUuTYM8CFtlVw9-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="437" y="378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z5zjT02Y-yt-OSw4Jawk-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Schuh&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- groesse: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- farbe: String&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Schuh&lt;/u&gt;()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeGroesse(groesse: int): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibGroesse(): int&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeFarbel(farbe: String): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibFarbe(): String&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="z5zjT02Y-yt-OSw4Jawk-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Schuh&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- groesse: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- farbe: String&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Schuh&lt;/u&gt;()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeGroesse(groesse: int): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibGroesse(): int&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setzeFarbel(farbe: String): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ gibFarbe(): String&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="327" y="418" width="220" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="z5zjT02Y-yt-OSw4Jawk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z5zjT02Y-yt-OSw4Jawk-2">
+        <mxCell id="z5zjT02Y-yt-OSw4Jawk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="z5zjT02Y-yt-OSw4Jawk-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="436.8571428571429" y="395.8571428571429" as="targetPoint" />
             <Array as="points">
@@ -410,16 +410,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z5zjT02Y-yt-OSw4Jawk-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Schmuck&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="z5zjT02Y-yt-OSw4Jawk-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Schmuck&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="563" y="418" width="220" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="z5zjT02Y-yt-OSw4Jawk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SVLQ4ODy7TKubQk8MnC7-1">
+        <mxCell id="z5zjT02Y-yt-OSw4Jawk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="SVLQ4ODy7TKubQk8MnC7-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="436" y="398" as="targetPoint" />
             <Array as="points">
               <mxPoint x="201" y="398" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e9w1rdmnvEAIVCNd1ctg-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Artikelverwaltung&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- artikelListe: Artikel[]&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- aktuelleAnzahl: int&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ &lt;u&gt;Artikelverwaltung&lt;/u&gt;(anzahl: int)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ fuegeArtikelHinzu(artikel: Artikel): boolean&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ druckeAlleArtikel(): void&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="628" width="243" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
