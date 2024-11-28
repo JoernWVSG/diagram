@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T18:10:41.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="7Rkn8kIcrNYBDqYhVWS6" version="15.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.9.0" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Composite Pattern">
     <mxGraphModel dx="946" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -374,6 +374,83 @@
         </mxCell>
         <mxCell id="X6eKq9oofqkCXD1nfGXm-4" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ROBD5aYujCak9sWCajdu-1" vertex="1">
           <mxGeometry x="294" y="206" width="21" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Playlist" id="n1r35LAF49AGZNJgLD5j">
+    <mxGraphModel dx="934" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="asynPURu1JOr5d9ZOg41-0" />
+        <mxCell id="asynPURu1JOr5d9ZOg41-1" parent="asynPURu1JOr5d9ZOg41-0" />
+        <mxCell id="asynPURu1JOr5d9ZOg41-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Listenelement&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ naechsterGeben(): Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ naechsterSetzen(Listenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ datenGeben(): Lied&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ datenSetzen(Lied): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hintenEinfuegen(Lied): Listenelement&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="490" y="142" width="271" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.407;entryY=1.002;entryDx=0;entryDy=0;endArrow=block;endFill=0;entryPerimeter=0;" edge="1" parent="asynPURu1JOr5d9ZOg41-1" source="asynPURu1JOr5d9ZOg41-4" target="asynPURu1JOr5d9ZOg41-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Abschluss&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ &lt;u&gt;Abschluss&lt;/u&gt;()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterGeben(): Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterSetzen(Listenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ datenGeben(): Lied&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ datenSetzen(Lied): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ hintenEinfuegen(Lied): Listenelement&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="318" y="383" width="282" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="asynPURu1JOr5d9ZOg41-1" source="asynPURu1JOr5d9ZOg41-8" target="asynPURu1JOr5d9ZOg41-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="976" y="228" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="976" y="471" />
+              <mxPoint x="976" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-6" value="&amp;lt; hat als Nachfolger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="asynPURu1JOr5d9ZOg41-5">
+          <mxGeometry x="0.4694" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0.655;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="asynPURu1JOr5d9ZOg41-1" source="asynPURu1JOr5d9ZOg41-8" target="asynPURu1JOr5d9ZOg41-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7GN40FSTivpp5teSfGr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="asynPURu1JOr5d9ZOg41-1" source="asynPURu1JOr5d9ZOg41-8" target="r7GN40FSTivpp5teSfGr-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7GN40FSTivpp5teSfGr-2" value="verwaltet&lt;div&gt;&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r7GN40FSTivpp5teSfGr-1">
+          <mxGeometry x="0.1773" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Knoten&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- naechster: Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- daten: Lied&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ &lt;u&gt;Knoten&lt;/u&gt;(lied: Lied, naechster: Listenelement)&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterGeben(): Listenelement&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ naechsterSetzen(Listenelement): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ datenGeben(): Lied&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ datenSetzen(Lied): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ hintenEinfuegen(Lied): Listenelement&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="650" y="383" width="280" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-9" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="761" y="209" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-10" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="933" y="448" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="asynPURu1JOr5d9ZOg41-1" source="asynPURu1JOr5d9ZOg41-13" target="asynPURu1JOr5d9ZOg41-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-12" value="hat als Anfang &amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="asynPURu1JOr5d9ZOg41-11">
+          <mxGeometry x="-0.051" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Liste&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- erster: Listenelement&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ &lt;u&gt;Liste&lt;/u&gt;()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ vorneEinfuegen(Lied): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ hintenEinfuegen(Lied): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ vorneEntfernen(): Lied&lt;br&gt;+ anzahlGeben(): int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ listeDrucken(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="74" y="158" width="220" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-14" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="469" y="209" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="asynPURu1JOr5d9ZOg41-15" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="294" y="206" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="r7GN40FSTivpp5teSfGr-0" value="&lt;b&gt;Lied&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="651" y="629" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r7GN40FSTivpp5teSfGr-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="767" y="577" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="r7GN40FSTivpp5teSfGr-4" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="asynPURu1JOr5d9ZOg41-1">
+          <mxGeometry x="767" y="609" width="21" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
