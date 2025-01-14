@@ -13,6 +13,21 @@
         <mxCell id="rZGewC-Qt5ic17o-jG2J-3" value="&amp;nbsp;drehe 90° nach links" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="292" y="238" width="143" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="rZGewC-Qt5ic17o-jG2J-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="256" y="342" width="250" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGewC-Qt5ic17o-jG2J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="292" y="367" width="214" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGewC-Qt5ic17o-jG2J-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="256" y="318" width="250" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGewC-Qt5ic17o-jG2J-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="256" y="293" width="250" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGewC-Qt5ic17o-jG2J-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="256" y="393" width="250" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
