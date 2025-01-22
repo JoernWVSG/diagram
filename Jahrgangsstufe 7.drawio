@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.6" pages="3">
   <diagram name="Wiederholung" id="fxJKZWlCCIAiSNxTkQP0">
     <mxGraphModel dx="794" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,6 +86,35 @@
         </mxCell>
         <mxCell id="xBayoCm-xm0rbq74GYGa-9" value="nein" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="132" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WCiinA4fMk08E-UypfRu" name="Seite-3">
+    <mxGraphModel dx="662" dy="416" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="baj0vx06Fik4e5a-R3JF-1" value="&amp;nbsp;wiederhole 8 mal" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="102" y="141" width="195" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="baj0vx06Fik4e5a-R3JF-2" value="&amp;nbsp;färbe Feld" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="138" y="166" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="baj0vx06Fik4e5a-R3JF-3" value="&amp;nbsp;gehe nach rechts" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="102" y="117" width="195" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="baj0vx06Fik4e5a-R3JF-4" value="&amp;nbsp;gehe nach rechts" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="102" y="92" width="195" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="baj0vx06Fik4e5a-R3JF-6" value="&amp;nbsp;gehe nach rechts" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="138" y="192" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="baj0vx06Fik4e5a-R3JF-8" value="&amp;nbsp;färbe Feld" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="138" y="218" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="baj0vx06Fik4e5a-R3JF-9" value="&amp;nbsp;gehe nach oben" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="138" y="244" width="159" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
