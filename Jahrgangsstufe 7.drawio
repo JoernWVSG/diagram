@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.8" pages="3">
   <diagram name="Wiederholung" id="fxJKZWlCCIAiSNxTkQP0">
     <mxGraphModel dx="794" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="rZGewC-Qt5ic17o-jG2J-14" value="&amp;nbsp;gehe nach rechts" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="552" y="171" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nq5GTvRXOFkUORf3l-xx-1" value="&amp;nbsp;wiederhole bis Regen aufhört" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="536" y="342" width="208" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="nq5GTvRXOFkUORf3l-xx-2" value="&amp;nbsp;lasse Regenschirm geöffnet" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="572" y="367" width="172" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
