@@ -31,8 +31,17 @@
         <mxCell id="L1exS-t7aeHkETN67V-w-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Methoden" vertex="1">
           <mxGeometry height="21" width="87" x="329" y="218" as="geometry" />
         </mxCell>
-        <mxCell id="L1exS-t7aeHkETN67V-w-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;Lenas Smartphone&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;akkuzustand = 12%&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="160" x="151" y="310" as="geometry" />
+        <mxCell id="L1exS-t7aeHkETN67V-w-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;Lenas Smartphone&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;akkuzustand = 12%&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;lautstärke = 0&lt;br&gt;displayzustand = ein&lt;/p&gt;" vertex="1">
+          <mxGeometry height="81" width="150" x="151" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="L1exS-t7aeHkETN67V-w-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;Amirs Smartphone&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;akkuzustand = 95%&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;lautstärke = 59&lt;br&gt;displayzustand = aus&lt;/p&gt;" vertex="1">
+          <mxGeometry height="81" width="150" x="310" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="L1exS-t7aeHkETN67V-w-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;Pauls Smartphone&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;akkuzustand = 50%&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;lautstärke = 55&lt;br&gt;displayzustand = gesperrt&lt;/p&gt;" vertex="1">
+          <mxGeometry height="81" width="150" x="469" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="L1exS-t7aeHkETN67V-w-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Leas Smartphone&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;akkuzustand&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;lautstärke = 70&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;modell = XPhone&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;gesperrt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;lautstärkeÄndern&lt;/p&gt;" vertex="1">
+          <mxGeometry height="118" width="111" x="451" y="122.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
