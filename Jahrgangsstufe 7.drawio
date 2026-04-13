@@ -345,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ejM1-G5jN6bNxjybukgz" name="Seite-4">
-    <mxGraphModel dx="673" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="386" dy="257" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,6 +429,27 @@
         </mxCell>
         <mxCell id="0rGbj8YlU73IurdsDPQi-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="" vertex="1">
           <mxGeometry height="105" width="200" x="414" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;wiederhole 5 mal" vertex="1">
+          <mxGeometry height="177" width="236" x="66" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp; gehe nach rechts" vertex="1">
+          <mxGeometry height="26" width="200" x="102" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp; wiederhole 4 mal" vertex="1">
+          <mxGeometry height="50" width="200" x="102" y="428" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp; gehe nach oben" vertex="1">
+          <mxGeometry height="26" width="166" x="136" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp; zünde Kerze an" vertex="1">
+          <mxGeometry height="26" width="200" x="102" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp; wiederhole 4 mal" vertex="1">
+          <mxGeometry height="50" width="200" x="102" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="cZhdTRqp0fq-5c7riGRw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp; gehe nach unten" vertex="1">
+          <mxGeometry height="26" width="166" x="136" y="528" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
