@@ -1426,10 +1426,10 @@
             <mxPoint x="363" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z4116hzCWTZyukICOs18-16" parent="1" style="html=1;" value="&lt;u&gt;k2: Knoten&lt;/u&gt;" vertex="1">
+        <mxCell id="z4116hzCWTZyukICOs18-16" parent="1" style="html=1;" value="&lt;u&gt;k3: Knoten&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="432" y="175" as="geometry" />
         </mxCell>
-        <mxCell id="z4116hzCWTZyukICOs18-17" parent="1" style="html=1;" value="&lt;u&gt;nadine: Patient&lt;/u&gt;" vertex="1">
+        <mxCell id="z4116hzCWTZyukICOs18-17" parent="1" style="html=1;" value="&lt;u&gt;ebru: Patient&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="432" y="257" as="geometry" />
         </mxCell>
         <mxCell id="z4116hzCWTZyukICOs18-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z4116hzCWTZyukICOs18-17" value="daten">
@@ -1438,6 +1438,19 @@
             <mxPoint x="482" y="205" as="sourcePoint" />
             <mxPoint x="506" y="246" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7whZB2QEytGOr03uwUmi-1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7whZB2QEytGOr03uwUmi-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7whZB2QEytGOr03uwUmi-2" connectable="0" parent="7whZB2QEytGOr03uwUmi-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="naechster" vertex="1">
+          <mxGeometry relative="1" x="-0.2368" y="1" as="geometry">
+            <mxPoint x="6" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7whZB2QEytGOr03uwUmi-3" parent="1" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="608" y="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
