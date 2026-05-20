@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" pages="16">
   <diagram id="XBvq9VJZWqMZsw_GsI3B" name="Page-1">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CQkTFXIpAascc0tk0h92" name="Seite-4">
-    <mxGraphModel dx="459" dy="306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1369,6 +1369,74 @@
             <mxPoint as="offset" />
             <mxPoint x="419" y="294" as="sourcePoint" />
             <mxPoint x="488" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rDr-osdE1ALEyTNwOf9O" name="Seite-16">
+    <mxGraphModel dx="665" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z4116hzCWTZyukICOs18-1" parent="1" style="html=1;" value="&lt;u&gt;liste: Liste&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="94" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-2" edge="1" parent="1" source="z4116hzCWTZyukICOs18-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="z4116hzCWTZyukICOs18-4" value="naechster">
+          <mxGeometry relative="1" x="-0.0145" y="10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-3" parent="1" style="html=1;" value="&lt;u&gt;k1: Knoten&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="94" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-4" parent="1" style="html=1;" value="&lt;u&gt;k2: Knoten&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="263" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-7" edge="1" parent="1" source="z4116hzCWTZyukICOs18-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z4116hzCWTZyukICOs18-3" value="erster">
+          <mxGeometry relative="1" x="-0.0385" y="21" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="204" y="200" as="sourcePoint" />
+            <mxPoint x="273" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-8" parent="1" style="html=1;" value="&lt;u&gt;ali: Patient&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="94" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-9" edge="1" parent="1" source="z4116hzCWTZyukICOs18-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z4116hzCWTZyukICOs18-8" value="daten">
+          <mxGeometry relative="1" x="-0.0385" y="21" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="169" y="220" as="sourcePoint" />
+            <mxPoint x="168" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-10" parent="1" style="html=1;" value="&lt;u&gt;nadine: Patient&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="263" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z4116hzCWTZyukICOs18-10" value="daten">
+          <mxGeometry relative="1" x="-0.0385" y="21" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="313" y="205" as="sourcePoint" />
+            <mxPoint x="337" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="z4116hzCWTZyukICOs18-16" value="naechster">
+          <mxGeometry relative="1" x="-0.0145" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="363" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-16" parent="1" style="html=1;" value="&lt;u&gt;k2: Knoten&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="432" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-17" parent="1" style="html=1;" value="&lt;u&gt;nadine: Patient&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="432" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="z4116hzCWTZyukICOs18-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z4116hzCWTZyukICOs18-17" value="daten">
+          <mxGeometry relative="1" x="-0.0385" y="21" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="482" y="205" as="sourcePoint" />
+            <mxPoint x="506" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
